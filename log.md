@@ -5,4 +5,4 @@
 
 **Lo aprendido**: Aprendí lo básico de HTML y HTML5 tal como son los encabezados, añadir imágenes a la página, enlaces externos, enlaces internos, etc.
 
-**Dificultades:** Hasta ahorita no he presentado ninguna dificultad.
+**Dificultades:** Dado que sigo viendo lo básico, aún no se me ha presentado ninguna dificultad
