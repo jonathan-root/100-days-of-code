@@ -7,4 +7,4 @@
 
 **Dificultades:** Dado que sigo viendo lo básico, aún no se me ha presentado ninguna dificultad
 
-**Enlaces: ** https://onlinegdb.com/ByZ9I-YLI
+**Enlaces:** https://onlinegdb.com/ByZ9I-YLI
