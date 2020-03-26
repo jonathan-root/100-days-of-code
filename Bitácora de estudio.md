@@ -18,4 +18,14 @@
 
 **Enlaces:** https://onlinegdb.com/Hkz1mMt8U
 
+### Día 3: 26 de marzo, 2020
+#### Tema estudiado: HTML, HTML5 y C++
 
+**Lo aprendido:** Por fin terminé el curso básico de HTML, aprendí por qué se le tiene que dar una atributo de valor a las entradas de usuario, aprendí a dejar marcada una casilla de checkbox o de radio por default, a declarar el DOCTIPE y por qué es necesario incluir la versión de HTML que se está manejando. También aprendí a incluir los elementos que sirven para dar estructura a un archivo HTML como lo es div, head, title y body.
+En c++ aprendí a recorrer un árbol binario en postorden, inorden y preorden. También aprendí a buscar un elemento del árbol de busqueda binario.
+
+**Dificultades:** Usar funciones recursivas sigue siendo algo complicado, voy a necesitar practicar más la recursividad.
+
+**Enlaces:** 
+https://onlinegdb.com/SJPcb8588
+https://onlinegdb.com/rkUgLL9LL
