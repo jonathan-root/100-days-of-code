@@ -31,3 +31,14 @@ En c++ aprendí a recorrer un árbol binario en postorden, inorden y preorden. T
 https://onlinegdb.com/SJPcb8588
 
 https://onlinegdb.com/rkUgLL9LL
+
+# 100 Days Of Code - Bitácora de estudio
+
+### Día 4: 27 de marzo, 2020
+##### Tema estudiado: C++ y CSS
+
+**Lo aprendido**: Aprendí a implementar fuentes estándar y de google fonts con CSS, también aprendí algunas herramientas de CSS como border-radius, border-width, border-style, background-color, width, font-famlily y font-size. Aprendí a asignarle un estilo único a un elemento de HTML por su ID.
+
+**Dificultades:** Continué estudiando árboles, esta vez intenté borrar nodos de un árbol, sin embargo decidí primero intentarlo por mi propia cuenta antes de ver cómo se hacía, logré borrar las hojas pero no pude borrar la raiz ni las ramas.
+
+**Enlaces:** https://onlinegdb.com/Skbr03iUU
