@@ -42,3 +42,17 @@ https://onlinegdb.com/rkUgLL9LL
 **Dificultades:** Continué estudiando árboles, esta vez intenté borrar nodos de un árbol, sin embargo decidí primero intentarlo por mi propia cuenta antes de ver cómo se hacía, logré borrar las hojas pero no pude borrar la raiz ni las ramas.
 
 **Enlaces:** https://onlinegdb.com/Skbr03iUU
+
+# 100 Days Of Code - Bitácora de estudio
+
+### Día 5: 28 de marzo, 2020
+##### Tema estudiado: CSS, Python y C++
+
+**Lo aprendido**:padding margin hexa color arbol sintaxis Hoy aprendí lo que es el padding y el margin de los elementos en HTML y aprendí a manipularlos. Aprendí sobre los colores en código hexadecimal y las prioridades de estilos para los elementos de HTML.
+También ya terminé de ver el tema de árboles en C++, aprendiendo a crear un árbol, añadir nodos a él, a buscarloso y a eliminarlos. También hoy empecé a estudiar python empezando por la sintaxis básica.
+
+**Dificultades:** Eliminar los nodos de un árbol es bastante confuso, me costó terminar de entender como funciona.
+
+**Enlaces:**
+https://onlinegdb.com/HJltd9T8I
+https://onlinegdb.com/ByL2d5pLU
