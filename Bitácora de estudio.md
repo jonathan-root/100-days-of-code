@@ -54,5 +54,7 @@ También ya terminé de ver el tema de árboles en C++, aprendiendo a crear un �
 **Dificultades:** Eliminar los nodos de un árbol es bastante confuso, me costó terminar de entender como funciona.
 
 **Enlaces:**
+
 https://onlinegdb.com/HJltd9T8I
+
 https://onlinegdb.com/ByL2d5pLU
