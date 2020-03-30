@@ -32,7 +32,6 @@ https://onlinegdb.com/SJPcb8588
 
 https://onlinegdb.com/rkUgLL9LL
 
-# 100 Days Of Code - Bitácora de estudio
 
 ### Día 4: 27 de marzo, 2020
 ##### Tema estudiado: C++ y CSS
@@ -43,7 +42,6 @@ https://onlinegdb.com/rkUgLL9LL
 
 **Enlaces:** https://onlinegdb.com/Skbr03iUU
 
-# 100 Days Of Code - Bitácora de estudio
 
 ### Día 5: 28 de marzo, 2020
 ##### Tema estudiado: CSS, Python y C++
@@ -59,7 +57,6 @@ https://onlinegdb.com/HJltd9T8I
 
 https://onlinegdb.com/ByL2d5pLU
 
-# 100 Days Of Code - Bitácora de estudio
 
 ### Día 6: 29 de marzo, 2020
 ##### Tema estudiado: CSS
