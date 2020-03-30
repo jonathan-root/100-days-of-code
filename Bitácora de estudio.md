@@ -58,3 +58,12 @@ También ya terminé de ver el tema de árboles en C++, aprendiendo a crear un �
 https://onlinegdb.com/HJltd9T8I
 
 https://onlinegdb.com/ByL2d5pLU
+
+# 100 Days Of Code - Bitácora de estudio
+
+### Día 6: 29 de marzo, 2020
+##### Tema estudiado: CSS
+
+**Lo aprendido**: Aprendí a crear y utilizar variables en CSS, también aprendí sobre compatibilidad se CSS con algunos exploradores y a cambiar el valor de las variables con respecto a la "consulta de medios".
+
+**Dificultades:** Hoy mi única dificultad fue empezar a estudiar, yo tenía planeado tomarme el día libre pero al final me terminé arrepintiendo porque no quería romper con el reto.
